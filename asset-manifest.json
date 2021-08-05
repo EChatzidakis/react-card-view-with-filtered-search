@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-card-view-with-filtered-search/static/css/main.33ccee9a.chunk.css",
+    "main.js": "/react-card-view-with-filtered-search/static/js/main.3fe5fe63.chunk.js",
+    "main.js.map": "/react-card-view-with-filtered-search/static/js/main.3fe5fe63.chunk.js.map",
+    "runtime-main.js": "/react-card-view-with-filtered-search/static/js/runtime-main.10fecb8d.js",
+    "runtime-main.js.map": "/react-card-view-with-filtered-search/static/js/runtime-main.10fecb8d.js.map",
+    "static/js/2.e22b4552.chunk.js": "/react-card-view-with-filtered-search/static/js/2.e22b4552.chunk.js",
+    "static/js/2.e22b4552.chunk.js.map": "/react-card-view-with-filtered-search/static/js/2.e22b4552.chunk.js.map",
+    "static/js/3.caecfd98.chunk.js": "/react-card-view-with-filtered-search/static/js/3.caecfd98.chunk.js",
+    "static/js/3.caecfd98.chunk.js.map": "/react-card-view-with-filtered-search/static/js/3.caecfd98.chunk.js.map",
+    "index.html": "/react-card-view-with-filtered-search/index.html",
+    "static/css/main.33ccee9a.chunk.css.map": "/react-card-view-with-filtered-search/static/css/main.33ccee9a.chunk.css.map",
+    "static/js/2.e22b4552.chunk.js.LICENSE.txt": "/react-card-view-with-filtered-search/static/js/2.e22b4552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10fecb8d.js",
+    "static/js/2.e22b4552.chunk.js",
+    "static/css/main.33ccee9a.chunk.css",
+    "static/js/main.3fe5fe63.chunk.js"
+  ]
+}
